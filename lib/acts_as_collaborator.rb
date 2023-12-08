@@ -8,7 +8,7 @@ module ActsAsCollaborator
     class_attribute :collaborator_configuration
 
     collaborator_configuration = {
-      column: 'collaborators',
+      column: 'collaborator_ids',
       column_type: 'array',
       table_name: self.table_name
     }

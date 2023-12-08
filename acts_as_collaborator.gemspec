@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
-  spec.metadata["homepage_uri"] = spec.homepage
+  spec.metadata["homepage_uri"] = "https://github.com/Smit3949/acts_as_collaborator"
   spec.metadata["source_code_uri"] = "https://github.com/Smit3949/acts_as_collaborator"
   spec.metadata["changelog_uri"] = "https://github.com/Smit3949/acts_as_collaborator"
 

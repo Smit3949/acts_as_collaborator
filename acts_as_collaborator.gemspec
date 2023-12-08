@@ -9,12 +9,12 @@ Gem::Specification.new do |spec|
   spec.email = [""]
 
   spec.summary = "This gem allows to add default scope for collaborators."
-  spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.description = "Write a longer description or delete this line."
+  spec.homepage = "https://github.com/Smit3949/acts_as_collaborator"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
+  spec.metadata["allowed_push_host"] = "Set to your gem server 'https://example.com'"
 
   spec.metadata["homepage_uri"] = "https://github.com/Smit3949/acts_as_collaborator"
   spec.metadata["source_code_uri"] = "https://github.com/Smit3949/acts_as_collaborator"
